@@ -2,5 +2,5 @@
 
 ```bash
 npm install
-npm start
+npm run demo1
 ```
